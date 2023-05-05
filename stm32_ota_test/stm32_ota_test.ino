@@ -17,7 +17,7 @@
  *      
  *      #endif  //__CREDENTIALS_H
 */
-//#define DUMMY_TEST
+#define DUMMY_TEST
 
 #ifndef DUMMY_TEST
 #include "credentials.h"
